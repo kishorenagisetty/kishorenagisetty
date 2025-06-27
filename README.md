@@ -11,7 +11,7 @@
 - 🔁 End-to-end CI/CD pipelines using Azure DevOps
 
 🌐 **Portfolio**: [kishorekumarnagisetty.space](https://kishorekumarnagisetty.space)  
-🔗 **LinkedIn**: [linkedin.com/in/kishorenagisetty](https://www.linkedin.com/in/kishore-kumar-346b66133/)
+🔗 **LinkedIn**: [linkedin.com/in/kishorenagisetty](https://www.linkedin.com/in/kishore-kumar-346b66133/)  
 🐙 **GitHub Projects**: [github.com/kishorenagisetty](https://github.com/kishorenagisetty)
 
 ---
