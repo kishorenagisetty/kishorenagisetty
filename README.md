@@ -1,16 +1,20 @@
-## Hi there 👋
+# 👋 Hi, I’m Kishore Kumar Nagisetty
 
-<!--
-**kishorenagisetty/kishorenagisetty** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 Senior AI Azure DevOps & SRE Engineer  
+🔧 Expert in Terraform | Azure | Kubernetes | GitOps | CI/CD | Synapse
 
-Here are some ideas to get you started:
+🛠 I automate infrastructure, secure cloud platforms, and deploy scalable data systems using best-in-class DevOps practices.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+💼 Currently building:
+- 💡 Azure Synapse Data Warehousing with Terraform
+- 📦 Service Principal Expiry Automation using Logic Apps
+- 🔁 End-to-end CI/CD pipelines using Azure DevOps
+
+🌐 **Portfolio**: [kishorekumarnagisetty.space](https://kishorekumarnagisetty.space)  
+🔗 **LinkedIn**: [linkedin.com/in/kishorenagisetty](https://www.linkedin.com/in/kishore-kumar-34b6e6133)  
+🐙 **GitHub Projects**: [github.com/kishorenagisetty](https://github.com/kishorenagisetty)
+
+---
+
+> 🔥 _"Simplifying Cloud Infrastructure, One Terraform Plan at a Time."_  
+> — Kishore 👑
